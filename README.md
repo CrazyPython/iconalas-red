@@ -33,4 +33,5 @@ If you think the black text is a bug, [look at this](https://i.imgur.com/VtJnrnF
 
 ---
 
-Take a moment to judge for yourself.
+**Warning:** The creator's color vision is better than average, so you may find the darker colors hard to read.
+
