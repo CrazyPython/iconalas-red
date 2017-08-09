@@ -19,11 +19,11 @@ Use with Fira Code and "Material Theme - Darker" plugin.
 
 ### Solarized Dark - A very popular theme
 
-![](https://i.imgur.com/EoxvJiB.png)
+![](https://i.imgur.com/0liPBZy.png)
 
 ### Obsidian - Another top-rated theme
 
-![](https://i.imgur.com/VtJnrnF.png
+![](https://i.imgur.com/VtJnrnF.png)
 
 ### Visual Studio 2015, the highest rated VS Theme
 
