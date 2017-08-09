@@ -1,10 +1,14 @@
 # Iconalas Red
 ![](https://i.imgur.com/cH83ZlI.png)
 
-A theme for C++ built from the ground up for readability and productivity. Only works for CLion as of now. Use with Fira Code and "Material Theme - Darker" plugin. 
+A theme for C++ built from the ground up for readability and productivity.
 
+Only works compatible CLion as of now. 
 
-Use with Fira Code and "Material Theme - Darker" plugin. 
+## Reccomended Usage
+- Install the Fira Code font
+- Install the Material Theme plugin. Set it to "Material Theme - Darker".
+
 ## Comparisons
 ### Material Theme - Darker - The theme Iconalas Red is based on:
 
