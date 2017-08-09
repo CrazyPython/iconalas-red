@@ -8,6 +8,10 @@ Only works compatible CLion as of now.
 ## Reccomended Usage
 - Install the Fira Code font
 - Install the Material Theme plugin. Set it to "Material Theme - Darker".
+- Download Iconalas Red and select it in Preferences > Editor > Color Scheme > Import Scheme
+
+### Troubleshooting
+- [See this Stack Overflow thread for issues with antialiasing](https://superuser.com/questions/614960/how-to-fix-font-anti-aliasing-in-intellij-idea-when-using-high-dpi)
 
 ## Comparisons
 ### Material Theme - Darker - The theme Iconalas Red is based on:
