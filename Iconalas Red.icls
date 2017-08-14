@@ -532,7 +532,7 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="e784a2" />
       </value>
     </option>
     <option name="DEFAULT_NUMBER">
@@ -654,7 +654,8 @@
     </option>
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="597f5f" />
+        <option name="BACKGROUND" value="111111" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="Enum name">
@@ -1061,7 +1062,7 @@
     </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
+        <option name="FOREGROUND" value="e784a2" />
         <option name="BACKGROUND" value="777777" />
       </value>
     </option>
@@ -1470,7 +1471,7 @@
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="39adb5" />
+        <option name="BACKGROUND" value="1d363d" />
       </value>
     </option>
     <option name="Number">
