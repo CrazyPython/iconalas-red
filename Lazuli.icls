@@ -1,11 +1,11 @@
-<scheme name="Iconalas Red" version="142" parent_scheme="Darcula">
+<scheme name="Lazuli" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2017-08-09T13:13:13</property>
     <property name="ide">CLion</property>
     <property name="ideVersion">2017.2.1.0.0</property>
     <property name="modified">2017-08-09T14:23:15</property>
-    <property name="originalScheme">Icona</property>
+    <property name="originalScheme">Darcula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <font>
