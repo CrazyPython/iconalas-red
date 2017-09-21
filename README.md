@@ -1,7 +1,7 @@
-# Iconalas Red
+# Lazuli
 ![](https://i.imgur.com/cH83ZlI.png)
 
-A theme for C++ built from the ground up for readability and productivity.
+A theme for C++ built from the ground up for readability and productivity. (formerly known as Iconalas Red)
 
 Only works compatible CLion as of now. 
 
@@ -14,7 +14,7 @@ Only works compatible CLion as of now.
 - [See this Stack Overflow thread for issues with antialiasing](https://superuser.com/questions/614960/how-to-fix-font-anti-aliasing-in-intellij-idea-when-using-high-dpi)
 
 ## Comparisons
-### Material Theme - Darker - The theme Iconalas Red is based on:
+### Material Theme - Darker - The theme Lazuli is based on:
 
 ![](https://i.imgur.com/jIta06L.png)
 ### Darcula - CLion's builtin dark theme
@@ -38,8 +38,4 @@ Only works compatible CLion as of now.
 ![](https://i.imgur.com/1MyOFh8.png)
 
 If you think the black text is a bug, [look at this](https://i.imgur.com/VtJnrnF.png).
-
----
-
-**Warning:** The creator's color vision is better than average, so you may find the darker colors hard to read.
 
